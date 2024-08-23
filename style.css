@@ -51,3 +51,25 @@ h1{
      border-radius: 5px;
 
 }
+.result{
+    text-align: center;
+    /* color: #340323; */
+    font-size: 12px;
+    margin-top: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+
+}
+.btn{
+    padding: 10px 15px;
+    color:white;
+    background-color: rgb(245, 59, 59);
+    opacity: .9;
+    border-radius: 5px;
+    border: 1px solid skyblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(215, 60,60 );;
+}
